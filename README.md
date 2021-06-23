@@ -7,5 +7,5 @@
 
 Loan is a thing that is borrowed especially a sum of money that is expected to be paid back with interest. A bank loan is the most common form of loan capital for a individual or business provided by banks. A borrower has to reutrn the amount with certain rate of interest over a period of time. Most of the profit for banks comes from loan's interest. Loans are the core business of banks. Since most of incomes comes from interest, banks have to follow strict rule and regulation for verification of loans because defaults of loan can cost huge amount of loss to banks. A machine learning model which can accurately predict defaulters can save money and also helps to reduce the approval time. So the main purpose of this project is to predict the defaulters.
 
-#### TO KNOW MORE ABOUT THE PROJECT, YOU CAN CHECK [HERE](https://rabintiwari45.github.io/portfolio_website3/post/project-1/)
+#### TO KNOW MORE ABOUT THE PROJECT, YOU CAN CHECK [HERE](https://rabintiwari45.github.io/Portfolio/post/project-1/)
 ### You can find the original dataset [Here](https://www.kaggle.com/zaurbegiev/my-dataset)
